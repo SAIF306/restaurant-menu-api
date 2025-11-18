@@ -154,7 +154,7 @@ Follow these steps to run the project locally:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/SAIF306/restaurant-menu-api.git
+   git clone https://github.com/SAIF306/restaurant-menu-api
    ```
 
 2. **Navigate to the project directory**
@@ -206,7 +206,7 @@ Follow these steps to run the project locally:
 
 > Replace this with your actual link after pushing the project.
 
-`https://github.com/SAIF306/restaurant-menu-api.git`
+`https://github.com/SAIF306/restaurant-menu-api`
 
 ---
 
